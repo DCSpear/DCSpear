@@ -8,30 +8,7 @@ I am a student with a keen interest in software development and technology. Base
 
 ## Skills & Technologies
 
-java,perl,bash,c,cpp,js,py,webpack,vim,vscode,redhat,docker,ansible,html,mysql,openstack
-
-## Top Projects
-
-- [DCSpear](https://github.com/DCSpear/DCSpear)  
-  *Description:* Config files for my GitHub profile.  
-  *Stars:* 0  
-  *Language:* N/A  
-  *Forks:* 0  
-  *Issues:* 0  
-
-- [SRM](https://github.com/DCSpear/SRM)  
-  *Description:* Student Record Management.  
-  *Stars:* 0  
-  *Language:* Java  
-  *Forks:* 0  
-  *Issues:* 0  
-
-- [scc](https://github.com/DCSpear/scc)  
-  *Description:* Competition instructions for the Center for High Performance Computing (CHPC) 2024 Student Cluster Competition.  
-  *Stars:* 0  
-  *Language:* Perl  
-  *Forks:* 0  
-  *Issues:* 0
+[![My Skills](https://skillicons.dev/icons?i=java,perl,bash,c,cpp,js,py,webpack,vim,vscode,redhat,docker,ansible,html,mysql,openstack&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 
@@ -41,11 +18,13 @@ java,perl,bash,c,cpp,js,py,webpack,vim,vscode,redhat,docker,ansible,html,mysql,o
 - **Followers:** 5  
 - **Following:** 13
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DCSpear&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Recent Activity
 
 - **Watched** [ThinkParQ/beegfs](https://github.com/ThinkParQ/beegfs) on January 26, 2025.  
 - **Watched** [lisabeeaan/HPC-InterestGroup](https://github.com/lisabeeaan/HPC-InterestGroup) on January 18, 2025.
 
-## Certifications
+## Certifications and Awards
 
-- [CHPC SCC Winner](https://scc.chpc.ac.za/2024/12/23/first-time-entrant-cput-wins-student-cluster-competition/) - CHPC, 2024
+- [CHPC SCC Winner](https://scc.chpc.ac.za/2024/12/23/first-time-entrant-cput-wins-student-cluster-competition/) - CHPC , 2024
