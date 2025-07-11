@@ -28,3 +28,4 @@ I am a student with a keen interest in software development and technology. Base
 ## Certifications and Awards
 
 - [CHPC SCC Winner](https://scc.chpc.ac.za/2024/12/23/first-time-entrant-cput-wins-student-cluster-competition/) - CHPC , 2024
+- [ISC25 2nd Place](https://scc.chpc.ac.za/2025/06/13/chpcs-student-cluster-competition-team-secures-2nd-place-at-international-supercomputing-contest/) - ISC25 , Hamburg , Germany
