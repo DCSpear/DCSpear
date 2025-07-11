@@ -14,8 +14,8 @@ I am a student with a keen interest in software development and technology. Base
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DCSpear&show_icons=true&theme=radical) 
 
-- **Public Repositories:** 3  
-- **Followers:** 5  
+- **Public Repositories:** 5  
+- **Followers:** 6  
 - **Following:** 13
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DCSpear&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
