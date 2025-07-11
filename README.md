@@ -2,6 +2,12 @@
 
 I'm **Allen Van Dieman**, a passionate student currently diving into the world of coding and development. Always eager to learn and collaborate, I believe in the power of technology to create innovative solutions.
 
+## Socials
+
+<a href="https://www.linkedin.com/in/allen-van-dieman-b96a4a344/">
+  <img src="img/linkedin-free -ICON.png" alt="LinkedIn Image" style="width:100px; height:100px;">
+</a>
+
 ## About Me
 
 I am a student with a keen interest in software development and technology. Based in Cape Town, South Africa, I am on a journey to expand my knowledge and skills in programming. My passion lies in creating impactful projects that can help others.
